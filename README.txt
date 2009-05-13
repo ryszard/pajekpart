@@ -69,14 +69,14 @@ Preparation of the .cat file
 The syntax of the category file is very simple. In each line consists of pair:
 <node-label from the .net file> <category you wish to assign that node>,
 separated with a tab. For example, a file may look like this:
--------
-dog	mammal
-python	programming language
-squirrel	mammal
-crocodile	reptile
-emu	bird
-alligator	reptile
--------
+    -------
+    dog	mammal
+    python	programming language
+    squirrel	mammal
+    crocodile	reptile
+    emu       	bird
+    alligator	reptile
+    -------
 
 The category file may contain any sign apart from the Tab sign (\t).
 
